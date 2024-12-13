@@ -1,10 +1,10 @@
 import "./App.css";
-import Comp1UseRef from "./components/Comp1UseRef";
+import Comp1UseContext from "./components/Comp1UseContext";
 
 function App() {
   return (
     <div className="App">
-      <Comp1UseRef />
+      <Comp1UseContext />
     </div>
   );
 }
