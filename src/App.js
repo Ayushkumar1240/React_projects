@@ -1,10 +1,10 @@
 import "./App.css";
-import Comp1UseContext from "./components/Comp1UseContext";
+import Comp2useReducer from "./components/Comp2useReducer";
 
 function App() {
   return (
     <div className="App">
-      <Comp1UseContext />
+      <Comp2useReducer />
     </div>
   );
 }
